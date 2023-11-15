@@ -1,0 +1,2 @@
+DMAPP + IPP = GPP, GPP + IPP = FPP, FPP + IPP = GGPP, GGPP + IPP = GFPP, 2 FPP = Squalene (triterpene), 2 GGPP = (tetraterpene)
+
