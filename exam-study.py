@@ -234,7 +234,7 @@ class QuizApp:
         label = tk.Label(self.version_window, text="Developer: 2020194025 yeohj0710")
         label.pack(padx=20, pady=10)
 
-        label = tk.Label(self.version_window, text="Version: 240430")
+        label = tk.Label(self.version_window, text="Version: 241020")
         label.pack(padx=20, pady=10)
 
     def select_quiz_folder(self):
